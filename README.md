@@ -28,6 +28,11 @@ Partially Masked Object Recognition leverages advanced neural network architectu
 
 ---
 
+## 📷 Masked objects images
+| Dogs | Cats | Cars |
+|---------------------|-------------------------|----------------|
+
+
 ## 📷 Screenshots
 | Model Architecture | Masked Dataset Example | Accuracy Graph |
 |---------------------|-------------------------|----------------|
