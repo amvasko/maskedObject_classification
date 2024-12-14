@@ -43,5 +43,5 @@ Partially Masked Object Recognition leverages advanced neural network architectu
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/partially-masked-object-recognition.git
-   cd partially-masked-object-recognition
+   git clone https://github.com/aranooke/maskedObject_classification.git
+   cd maskedObject_classification
